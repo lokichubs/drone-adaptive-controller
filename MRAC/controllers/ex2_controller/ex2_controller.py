@@ -19,7 +19,7 @@ driver = Robot()
 timestep = int(driver.getBasicTimeStep())
 
 # Set your percent loss of thrust
-lossOfThrust = 0.50
+lossOfThrust = 0.60
 # Instantiate controller and start sensors
 # customController = LQRController(driver, lossOfThrust) 
 customController = AdaptiveController(driver, lossOfThrust)
