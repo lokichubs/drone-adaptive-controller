@@ -1,0 +1,7 @@
+Percent Thrust Fail (%),LQR,MCAR
+50,Stablized,Stabilized
+55,Stablized,Stabilized
+60,Stablized,Stablized
+65,Stablized,Stabilized
+70,Stablized,Stabilized
+75,Failed,Stabilized 
